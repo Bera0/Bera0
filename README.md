@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bera's learning spot(Self practice) 👋
 
 🌱 I’m currently learning Oracle Database(Bronze) , Linux.
 
